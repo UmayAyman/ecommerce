@@ -20,8 +20,8 @@ const App = () => {
       <Header />
       <main>
         <section>
-        <div className='Shop'>
-          <img src = "src\assets\girls-shopping.png" style = {{height: "400px", width: "450px", marginLeft: "650px"}}></img>
+        <div className='Shop'>                         {/* src\assets\girls-shopping.png */}
+          <img src = "https://pluspng.com/img-png/girls-shopping-png-hd--1133.png" style = {{height: "400px", width: "450px", marginLeft: "650px"}}></img>
           <div style = {{marginTop: "-300px", marginLeft: "200px"}}>
           <p style = {{fontSize: "12px", fontWeight: "bold"}}>SPRING / SUMMER COLLECTION 2024</p>
           <h2>GET UPTO 30% OFF </h2>
